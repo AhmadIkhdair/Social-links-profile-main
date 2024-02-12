@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-inks-profile-main-1E7_ob_YDO](https://www.frontendmentor.io/solutions/social-inks-profile-main-1E7_ob_YDO)
+- Live Site URL: [https://ahmadikhdair.github.io/social-links-profile-main/](https://ahmadikhdair.github.io/social-links-profile-main/)
 
 ## My process
 
